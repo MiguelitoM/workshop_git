@@ -23,6 +23,8 @@ def parse_input(input_str: str) -> str:
             func_name = "add"
         elif input_str == '3':
             func_name = "sub"
+        elif input_str == '4':
+            func_name = "mult"
     
     else: func_name = input_str
     
