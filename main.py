@@ -2,7 +2,7 @@ import importlib
 from time import sleep
 
 
-implemented_function_list = ['all', 'add', 'sub'] #XXX
+implemented_function_list = ['all', 'add', 'sub', 'mult'] #XXX
 
 
 def print_options():
